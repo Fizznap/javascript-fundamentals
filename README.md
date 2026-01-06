@@ -17,6 +17,22 @@ This repository contains my JavaScript learning journey, where I practice core c
 - Basic data types in JavaScript
 - How JavaScript code is written and executed
 
+## Lecture 2: Operators & Conditional Statements
+
+### Topics Covered
+- Comments in JavaScript
+- Arithmetic, Unary, Assignment Operators
+- Comparison & Logical Operators
+- Ternary Operator
+- Conditional Statements (if, if-else, else-if)
+- Using MDN Docs
+
+### What I Learned
+- How JavaScript evaluates conditions
+- Difference between comparison and logical operators
+- Writing clean conditional logic
+- Using ternary operators for simple decisions
+
 ### Source
 Learning JavaScript fundamentals from Apna College (YouTube).
 
