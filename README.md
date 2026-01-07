@@ -33,6 +33,27 @@ This repository contains my JavaScript learning journey, where I practice core c
 - Writing clean conditional logic
 - Using ternary operators for simple decisions
 
+## Lecture 3: Loops & Strings in JavaScript
+
+### Topics Covered
+- for loop
+- while loop
+- do-while loop
+- for-of loop
+- for-in loop
+- Strings in JavaScript
+- Template Literals
+- Common String Methods
+- Practice questions
+
+### What I Learned
+- How different loops work and when to use each one
+- Difference between `for`, `while`, and `do-while` loops
+- Iterating over arrays and objects using `for-of` and `for-in`
+- Basics of strings and how they are handled in JavaScript
+- Using template literals for cleaner string formatting
+- Common string methods like length, toUpperCase, toLowerCase, slice, and replace
+
 ### Source
 Learning JavaScript fundamentals from Apna College (YouTube).
 
