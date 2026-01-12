@@ -54,6 +54,23 @@ This repository contains my JavaScript learning journey, where I practice core c
 - Using template literals for cleaner string formatting
 - Common string methods like length, toUpperCase, toLowerCase, slice, and replace
 
+## Lecture 3: Loops & Strings in JavaScript
+
+### Topics Covered
+-array
+-indices
+-looping over arrays
+-practice qs
+-array methods
+-practice qs
+
+### What I Learned
+-understood what arrays are and why they are used
+-learned how indices work and how to access elements
+-practiced looping over arrays using for and for-of
+-solved basic practice questions using arrays
+-learned common array methods like push, pop, map
+
 ### Source
 Learning JavaScript fundamentals from Apna College (YouTube).
 
