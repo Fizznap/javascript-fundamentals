@@ -54,7 +54,7 @@ This repository contains my JavaScript learning journey, where I practice core c
 - Using template literals for cleaner string formatting
 - Common string methods like length, toUpperCase, toLowerCase, slice, and replace
 
-## Lecture 3: Loops & Strings in JavaScript
+## Lecture 3: Arrays
 
 ### Topics Covered
 -array
